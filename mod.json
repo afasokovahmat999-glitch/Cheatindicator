@@ -1,0 +1,16 @@
+{
+  "geode": "4.0.0",
+  "version": "v1.0.0",
+  "id": "myname.fake_cheat_indicator",
+  "name": "Fake Cheat Indicator",
+  "developer": "User",
+  "description": "Fake cheat indicator with customizable toggle key.",
+  "settings": {
+    "toggle-key": {
+      "name": "Toggle Key",
+      "description": "Keybind to toggle indicator color (Green/Red)",
+      "type": "custom",
+      "default": "K"
+    }
+  }
+}
